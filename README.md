@@ -1,2 +1,3 @@
 # Kanban_JS_Frontend
-FrontEnd Kanban
+Front End do projeto Kanban
+
